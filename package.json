@@ -1,8 +1,9 @@
 {
     "name": "pastelin",
     "displayName": "Pastelin",
-    "description": "Billiant",
-    "version": "0.0.1",
+    "description": "Brilliant",
+    "version": "1.0.0",
+	"publisher": "tanyogeorgiev",
     "engines": {
         "vscode": "^1.50.0"
     },
@@ -17,5 +18,10 @@
                 "path": "./themes/Pastelin-color-theme.json"
             }
         ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/tanyogeorgiev/Pastelin"
     }
+	
 }
