@@ -1,5 +1,5 @@
-# README
-# Pastelin Dark theme
+# Pastelin - Azure Data Studio Theme
+# Dark theme
  
 ## Installation
 Download [.vsix file](https://github.com/tanyogeorgiev/Pastelin/releases/download/1.0.0/pastelin-1.0.0.vsix), open the command palette and select Extensions: Install from VSIX...
