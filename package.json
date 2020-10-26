@@ -2,10 +2,10 @@
     "name": "pastelin",
     "displayName": "Pastelin",
     "description": "Brilliant",
-    "version": "1.0.0",
+    "version": "1.0.1",
 	"publisher": "tanyogeorgiev",
     "engines": {
-        "vscode": "^1.50.0"
+        "vscode": "*"
     },
     "categories": [
         "Themes"

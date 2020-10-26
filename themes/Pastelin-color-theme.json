@@ -16,7 +16,7 @@
 		"tab.inactiveBackground": "#272a31",
 		"tab.inactiveForeground": "#778f8f",
 		"sideBar.background": "#2e3440" ,
-		"editorCursor.foreground": "#e0de37e8"	
+		"editorCursor.foreground": "#e0de37e8"
 
 
 
@@ -411,8 +411,7 @@
 
 			],
 			"settings": {
-				"foreground": "#ecae4f",
-				"fontStyle": "bold"
+				"foreground": "#ecae4f"
 			}
 		},
 
@@ -466,8 +465,7 @@
 				 "support.function.conversion"
 			],
 			"settings": {
-				"foreground": "#f15f5f",
-				"fontStyle": "bold"
+				"foreground": "#f15f5f"
 			}
 		},
 		{
@@ -479,8 +477,7 @@
 				 "support.function.mathematical"
 			],
 			"settings": {
-				"foreground": "#13be77",
-				"fontStyle": "bold"
+				"foreground": "#13be77"
 			}
 		},
 		{
@@ -503,8 +500,7 @@
 				 "support.function.system"
 			],
 			"settings": {
-				"foreground": "#cccb73",
-				"fontStyle": "bold"
+				"foreground": "#cccb73"
 			}
 		},
 		{
