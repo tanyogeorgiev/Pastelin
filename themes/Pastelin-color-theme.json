@@ -10,34 +10,35 @@
 		"editor.lineHighlightBackground": "#9aa6bd2f",
 		"editor.selectionBackground": "#202525d8",
 		"minimap.selectionHighlight": "#d39b00",
-		"tab.activeBackground": "#2e3440",
-		"tab.activeForeground": "#ff9486",
+		"tab.activeBackground": "#323f4e",
+		"tab.activeForeground": "#ffc72d",
 		"tab.border": "#5f6a81",
-		"tab.inactiveBackground": "#272a31",
+		"tab.inactiveBackground": "#1f2531",
 		"tab.inactiveForeground": "#778f8f",
+		"editorGroupHeader.tabsBackground": "#1f2531",
 		"editorBracketMatch.background": "#1e222b70",
 		"editorBracketMatch.border": "#009de6",
-
 		"editorCursor.foreground": "#ffff00",
 		"terminalCursor.foreground": "#ffff00",
-		"list.activeSelectionBackground": "#1f2731",
-		"list.inactiveSelectionBackground": "#007396",
+		"list.activeSelectionBackground": "#323f4e",
+		"list.inactiveSelectionBackground": "#323f4e",
 		"listFilterWidget.background": "#00927a",
 		"list.filterMatchBackground": "#e00685",
 		"listFilterWidget.outline": "#ffffff",
 		"list.filterMatchBorder": "#ffffff",
-		"list.activeSelectionForeground": "#fcce00",
-		"sideBar.background": "#323f4e",
+		"list.activeSelectionForeground": "#ffc72d",
+		"sideBar.background": "#1f2531", //323f4e
 		"sideBar.foreground": "#f1f0f0",
 		"breadcrumb.background": "#323f4e",
-		"breadcrumb.foreground": "#ffcb1e",
+		"breadcrumb.foreground": "#ffc72d",
 		"minimap.background": "#323f4e",
 		"activityBar.background": "#2e3440",
 		"activityBar.foreground": "#62949b",
 		"titleBar.activeBackground": "#2e3440",
 		"statusBar.background": "#2e3440",
 		"editor.findMatchHighlightBackground": "#008674",
-
+		"sideBar.border": "#3d465c",
+		"activityBar.border": "#202530"
 
 		//"activityBar.activeBorder": "#ffffff",
 		//"activityBar.dropBorder": "#ffffff",
@@ -923,6 +924,15 @@
 			}
 		},
 		{
+			"name": "Markdown - Line Break",
+			"scope": [
+				"text.html.markdown meta.dummy.line-break"
+			],
+			"settings": {
+				"foreground": ""
+			}
+		},
+		{
 			"name": "Markdown - Heading",
 			"scope": [
 				"markdown.heading",
@@ -994,6 +1004,7 @@
 				"markup.quote punctuation.definition.blockquote.markdown"
 			],
 			"settings": {
+				"background": "#657372",
 				"foreground": "#65737E"
 			}
 		},
