@@ -2,7 +2,7 @@
     "name": "pastelin",
     "displayName": "Pastelin",
     "description": "Brilliant",
-    "version": "1.0.1",
+    "version": "1.0.3",
 	"publisher": "tanyogeorgiev",
     "engines": {
         "vscode": "*"
@@ -23,5 +23,5 @@
         "type": "git",
         "url": "https://github.com/tanyogeorgiev/Pastelin"
     }
-	
+
 }
