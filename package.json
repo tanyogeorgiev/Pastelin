@@ -10,6 +10,7 @@
     "categories": [
         "Themes"
     ],
+    "icon": "https://raw.githubusercontent.com/tanyogeorgiev/Pastelin/main/assets/logo.png",
     "contributes": {
         "themes": [
             {
