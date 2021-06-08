@@ -21,6 +21,11 @@
                 "label": "Pastelin No Italic",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Pastelin-color-theme-no-italic.json"
+            },
+            {
+                "label": "Pastelin No Italic At All",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pastelin-color-theme-no-italic-at-all.json"
             }
         ]
     },
