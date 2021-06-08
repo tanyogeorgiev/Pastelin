@@ -2,7 +2,7 @@
     "name": "pastelin",
     "displayName": "Pastelin",
     "description": "Brilliant",
-    "version": "1.1.0",
+    "version": "1.2.0",
 	"publisher": "tanyogeorgiev",
     "engines": {
         "vscode": "*"
